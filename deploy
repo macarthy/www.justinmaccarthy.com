@@ -1,0 +1,2 @@
+ hugo && rsync -avz --delete public/ macarthy@justinmaccarthy:/var/www/justinmaccarthy.com/html/
+
