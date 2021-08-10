@@ -1,0 +1,22 @@
+baseURL = "http://justinmaccarthy.org/"
+languageCode = "en-us"
+title = "Justin's ployglot programming blog"
+theme ="m10c"
+author = "Justin MacCarthy"
+description="Writing web projects since cgi.pm in 1995. It's been downhill from there for the web. Nothing lasts, and the tooling is insane." 
+avatar= "https://avatars.githubusercontent.com/u/7726?v=4"
+menu_item_separator= "-" 
+
+
+[menu]
+[[menu.main]]
+  identifier = "tags"
+  name = "Tags"
+  url = "/tags/"
+
+
+[Params]                                
+[[params.social]]
+  icon = "github"
+  name = "My Github"
+  url = "https://github.com/macarthy"
